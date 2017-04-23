@@ -1,0 +1,38 @@
+{
+    "plugins/nut/core/class/nut.class.php": {
+        "Sur secteur": "Sur secteur",
+        "Batterie en charge": "Batterie en charge"
+    },
+    "plugins/nut/desktop/php/nut.php": {
+        "Ajouter un équipement": "Tambahan peralatan",
+        "Rechercher": "Mencari",
+        "Mes onduleurs": "Mes onduleurs",
+        "Général": "Umum",
+        "Nom de l'équipement Onduleur": "Nom de l'équipement Onduleur",
+        "Objet parent": "Objek induk",
+        "Aucun": "Tak ada",
+        "Activer": "Mengaktifkan",
+        "Visible": "Terlihat",
+        "Catégorie": "Kategori",
+        "Configuration": "Konfigurasi",
+        "Adresse IP NUT": "Adresse IP NUT",
+        "Nom d'utilisateur": "Nama pemakai",
+        "Mot de passe": "Password",
+        "ID de l'ups": "ID de l'ups",
+        "Onduleur NUT": "Onduleur NUT",
+        "Id": "Id",
+        "Nom": "Nama",
+        "Valeur": "Nilai",
+        "Options": "Pilihan",
+        "Supprimer": "Menghapus",
+        "Sauvegarder": "Menyimpan"
+    },
+    "plugins/nut/desktop/js/nut.js": {
+        "Historiser": "Historicize",
+        "Tester": "Coba"
+    },
+    "plugins/nut/plugin_info/info.xml": {
+        "Plugin pour récuperer les informations des onduleurs via nut": "Plugin pour récuperer les informations des onduleurs via nut",
+        "Aucune": "Tak ada"
+    }
+}

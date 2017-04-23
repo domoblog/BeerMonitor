@@ -1,0 +1,38 @@
+{
+    "plugins/nut/core/class/nut.class.php": {
+        "Sur secteur": "netzbetriebene ",
+        "Batterie en charge": "Batterie wird geladen"
+    },
+    "plugins/nut/desktop/php/nut.php": {
+        "Ajouter un équipement": "Gerät hinzufügen",
+        "Rechercher": "Suchen nach",
+        "Mes onduleurs": "Meine USV",
+        "Général": "Allgemein",
+        "Nom de l'équipement Onduleur": "Name des USV Gerätes",
+        "Objet parent": "Eltern-Objekt",
+        "Aucun": "Ohne",
+        "Activer": "aktivieren",
+        "Visible": "Sichtbar",
+        "Catégorie": "Kategorie",
+        "Configuration": "Konfiguration",
+        "Adresse IP NUT": "NUT IP Adresse",
+        "Nom d'utilisateur": "Benutzername",
+        "Mot de passe": "Passwort",
+        "ID de l'ups": "ID de l'ups",
+        "Onduleur NUT": "NUT USV",
+        "Id": "Id",
+        "Nom": "Name",
+        "Valeur": "Wert",
+        "Options": "Optionen",
+        "Supprimer": "Löschen",
+        "Sauvegarder": "Speichern"
+    },
+    "plugins/nut/desktop/js/nut.js": {
+        "Historiser": "Chronik",
+        "Tester": "Test"
+    },
+    "plugins/nut/plugin_info/info.xml": {
+        "Plugin pour récuperer les informations des onduleurs via nut": "Plugin, um Informationen über eine USV mittels NUT zu erhalten",
+        "Aucune": "Ohne"
+    }
+}

@@ -1,0 +1,9 @@
+{
+	"id" : "beeriob",
+	"name" : "Beer Monitor",
+	"description" : "Plugin pour monitorer une ou plusieurs pompes à bières",
+	"licence" : "AGPL",
+	"author" : "Domoblog et sarakha63",
+	"require" : "2.4",
+	"category" : "monitoring"
+}

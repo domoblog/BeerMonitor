@@ -1,0 +1,38 @@
+{
+    "plugins/nut/core/class/nut.class.php": {
+        "Sur secteur": "on AC",
+        "Batterie en charge": "Loading battery"
+    },
+    "plugins/nut/desktop/php/nut.php": {
+        "Ajouter un équipement": "Add device",
+        "Rechercher": "Search",
+        "Mes onduleurs": "My inverters",
+        "Général": "Main",
+        "Nom de l'équipement Onduleur": "Name of inverter device",
+        "Objet parent": "Parent object",
+        "Aucun": "None",
+        "Activer": "Activate",
+        "Visible": "Visible",
+        "Catégorie": "Category",
+        "Configuration": "Setup",
+        "Adresse IP NUT": "NUT IP address",
+        "Nom d'utilisateur": "Username",
+        "Mot de passe": "Password",
+        "ID de l'ups": "Ups ID",
+        "Onduleur NUT": "NUT inverter",
+        "Id": "Id",
+        "Nom": "Name",
+        "Valeur": "Value",
+        "Options": "Options",
+        "Supprimer": "Delete",
+        "Sauvegarder": "Save"
+    },
+    "plugins/nut/desktop/js/nut.js": {
+        "Historiser": "Historize",
+        "Tester": "Test"
+    },
+    "plugins/nut/plugin_info/info.xml": {
+        "Plugin pour récuperer les informations des onduleurs via nut": "Plugin to retrieve information from UPS by nut",
+        "Aucune": "None"
+    }
+}

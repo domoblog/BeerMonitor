@@ -1,0 +1,38 @@
+<div class="eqLogic-widget allowResize eqLogic" style="width: #width#;height: #height#;border:#border#;border-radius:#border-radius#;background-color: #background-color#;color: #color#;#style#" data-eqLogic_id="#id#" data-eqLogic_uid="#uid#" data-version="#version#">
+    <span class="cmd cmd-widget" data-cmd_id="#refresh_id#" style="display:none;"></span>
+    <span class="statusCmd" style="position : absolute;left : 5px; width : 30px;z-index: 1030;"></span>
+    <i class='fa fa-refresh pull-right cursor refresh' style="margin-top: 3px;margin-right: 3px;"></i>
+    <center><strong><a href="#eqLink#" style="font-size : 1.1em;#hideEqLogicName#">#name_display# <span style="font-size: 0.85em;position: relative;top:-2px;">#object_name#</span></a></strong></center>
+    <center style="#ups.status_display#"><b>#ups.status#</b></center>
+    <center>
+        <span class="#battery.charge_history#" style="#battery.charge_display#" data-cmd_id="#battery.charge_id#">
+            <i class="techno-charging"></i> 
+            <strong title="#battery.charge_collectDate#" style="font-size:1.1em;">#battery.charge#</strong> %<br/>
+        </span>
+        <span class="#battery.runtime_history#" style="#battery.runtime_display#" data-cmd_id="#battery.runtime_id#">
+            <i class="fa fa-clock-o"></i> 
+            <strong title="#battery.runtime_collectDate#" style="font-size:1.1em;">#battery.runtime#</strong> Sec<br/>
+        </span>
+        <span class="#battery.temperature_history#" style="#battery.temperature_display#" data-cmd_id="#battery.temperature_id#">
+            <i class="jeedom-thermo-moyen"></i> 
+            <strong title="#battery.temperature_collectDate#" style="font-size:1.1em;">#battery.temperature#</strong> °C<br/>
+        </span>
+        <span class="#output.current_history#" style="#output.current_display#" data-cmd_id="#output.current_id#">
+            <i class="techno-cable1"></i> 
+            <strong title="#output.current_collectDate#" style="font-size:1.1em;">#output.current#</strong> A<br/>
+        </span>
+        <span class="#ups.load_history#" style="#ups.load_display#" data-cmd_id="#ups.load_id#">
+            <i class="techno-courbes"></i> 
+            <strong title="#ups.load_collectDate#" style="font-size:1.1em;">#ups.load#</strong> %<br/>
+        </span>
+        <span class="#battery.voltage_history#" style="#battery.voltage_display#" data-cmd_id="#battery.voltage_id#">
+            <i class="fa fa-bolt"></i>
+            <strong title="#battery.voltage_collectDate#" style="font-size:1.1em;">#battery.voltage#</strong> V<br/>
+        </span>
+    </center>
+    <script>
+       $('.eqLogic[data-eqLogic_uid=#uid#] .refresh').on('click', function () {
+        jeedom.cmd.execute({id: '#refresh_id#'});
+    });   
+</script>
+</div>

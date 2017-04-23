@@ -1,0 +1,38 @@
+{
+    "plugins/nut/core/class/nut.class.php": {
+        "Sur secteur": "Sur secteur",
+        "Batterie en charge": "Batterie en charge"
+    },
+    "plugins/nut/desktop/php/nut.php": {
+        "Ajouter un équipement": "Добавить оборудование",
+        "Rechercher": "Искать",
+        "Mes onduleurs": "Мой ИБП",
+        "Général": "Главная",
+        "Nom de l'équipement Onduleur": "Наименование оборудования ИБП",
+        "Objet parent": "Родительский объект",
+        "Aucun": "Нет",
+        "Activer": "Активировать",
+        "Visible": "Видимый",
+        "Catégorie": "Категория",
+        "Configuration": "Конфигурация",
+        "Adresse IP NUT": "IP адрес NUT",
+        "Nom d'utilisateur": "Имя пользователя",
+        "Mot de passe": "Пароль",
+        "ID de l'ups": "ID de l'ups",
+        "Onduleur NUT": "ИБП NUT",
+        "Id": "Id",
+        "Nom": "Имя",
+        "Valeur": "Значение",
+        "Options": "Опции",
+        "Supprimer": "Удалить",
+        "Sauvegarder": "Сохранить"
+    },
+    "plugins/nut/desktop/js/nut.js": {
+        "Historiser": "История",
+        "Tester": "Тест"
+    },
+    "plugins/nut/plugin_info/info.xml": {
+        "Plugin pour récuperer les informations des onduleurs via nut": "Плагин для получения информации от ИБП",
+        "Aucune": "Нет"
+    }
+}

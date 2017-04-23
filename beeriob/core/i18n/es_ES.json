@@ -1,0 +1,38 @@
+{
+    "plugins/nut/core/class/nut.class.php": {
+        "Sur secteur": "Corriente alterna",
+        "Batterie en charge": "Cargando batería"
+    },
+    "plugins/nut/desktop/php/nut.php": {
+        "Ajouter un équipement": "Añadir un dispositivo",
+        "Rechercher": "Buscar",
+        "Mes onduleurs": "Mis SAIs",
+        "Général": "General",
+        "Nom de l'équipement Onduleur": "Nombre del dispositivo SAI",
+        "Objet parent": "Objeto padre",
+        "Aucun": "Ningún",
+        "Activer": "Activar",
+        "Visible": "Visible",
+        "Catégorie": "Categoría",
+        "Configuration": "Configuración",
+        "Adresse IP NUT": "Dirección IP NUT",
+        "Nom d'utilisateur": "Nombre de usuario",
+        "Mot de passe": "Contraseña",
+        "ID de l'ups": "ID de SAI",
+        "Onduleur NUT": "SAI NUT",
+        "Id": "Id",
+        "Nom": "Nombre",
+        "Valeur": "Valor",
+        "Options": "Opciones",
+        "Supprimer": "Borrar",
+        "Sauvegarder": "Guardar"
+    },
+    "plugins/nut/desktop/js/nut.js": {
+        "Historiser": "Guardar historial",
+        "Tester": "Probar"
+    },
+    "plugins/nut/plugin_info/info.xml": {
+        "Plugin pour récuperer les informations des onduleurs via nut": "Plugin para obtener información de los SAI's a través de nut",
+        "Aucune": "Ninguna"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "plugins\/nut\/core\/class\/nut.class.php": {
+        "Sur secteur": "Sur secteur",
+        "Batterie en charge": "Batterie en charge"
+    },
+    "plugins\/nut\/desktop\/php\/nut.php": {
+        "Ajouter un équipement": "Ajouter un équipement",
+        "Rechercher": "Rechercher",
+        "Mes onduleurs": "Mes onduleurs",
+        "Général": "Général",
+        "Nom de l'équipement Onduleur": "Nom de l'équipement Onduleur",
+        "Objet parent": "Objet parent",
+        "Aucun": "Aucun",
+        "Activer": "Activer",
+        "Visible": "Visible",
+        "Catégorie": "Catégorie",
+        "Configuration": "Configuration",
+        "Adresse IP NUT": "Adresse IP NUT",
+        "Nom d'utilisateur": "Nom d'utilisateur",
+        "Mot de passe": "Mot de passe",
+        "ID de l'ups": "ID de l'ups",
+        "Onduleur NUT": "Onduleur NUT",
+        "Id": "Id",
+        "Nom": "Nom",
+        "Valeur": "Valeur",
+        "Options": "Options",
+        "Supprimer": "Supprimer",
+        "Sauvegarder": "Sauvegarder"
+    },
+    "plugins\/nut\/desktop\/js\/nut.js": {
+        "Historiser": "Historiser",
+        "Tester": "Tester"
+    },
+    "plugins\/nut\/plugin_info\/info.xml": {
+        "Plugin pour récuperer les informations des onduleurs via nut": "Plugin pour récuperer les informations des onduleurs via nut",
+        "Aucune": "Aucune"
+    }
+}

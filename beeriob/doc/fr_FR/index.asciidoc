@@ -1,0 +1,19 @@
+== BEER MONITOR (BeerIoB)
+
+=== Description
+Ce plugin est un plugin permettant de monitorer une tireuse à biere, peut importe la marque. I suffit siplement de disposer d'ue sonde oregon modifiée (voir le tuto sur domo-blog à l'adresse https://www.domo-blog.fr/domotiser-pompe-a-biere-sonde-oregon-domotique/ )
+
+image:../images/beeriob_icon.png[width=256]
+
+'''
+=== Configuration
+include::configuration.asciidoc[]
+
+'''
+=== FAQ
+include::faq.asciidoc[]
+
+'''
+=== Changelog
+include::changelog.asciidoc[]
+

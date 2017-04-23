@@ -1,0 +1,65 @@
+== Configuration du plugin:
+
+.. Installation/Création
+
+[TIP]
+Pour utiliser ce plugin, vous devez le télécharger, l'installer et l'activer comme tout plugin Jeedom.
+
+* Suite à cela vous arriverez sur cette page :
+
+image:../images/activation-plugin-iob.jpg[width=650]
+
+Sur cette page, activez simplement le plugin.
+
+
+== Le plugin
+
+Rendez vous dans le menu plugins/monitoring pour retrouver le plugin.
+
+image:../images/configuration-plugin-iob.jpg[width=700]
+
+Sur la page de configuration du plugin, vous pouvez gérer plusieurs tireuses à bière.
+
+
+* Bouton Ajouter : Ce bouton permet d'ajouter une nouvelle tireuse à bière
+
+* Bouton Configuration : Ce bouton permet de configurer le plugin (Activer/Desactiver et gestion des logs)
+
+* Bouton Configuation : Ce bouton permet d'ouvrir la fenêtre de configuration du plugin
+
+* Bouton Santé : Ce bouton permet d'avoir un aperçu Santé de la ou les tireuses.
+
+Enfin dans Mes Tireuses, vous avez la liste des tireuse déja configurées.
+
+image:../images/gestion-iob.jpg[width=650]
+
+== Equipement
+
+Lorsque que vous cliquez sur une des tireuses déja configurée ou que vous ajoutez une nouvelle, vous arrivez sur la page de configuration.
+vous pouvez sur cette page de configuration:
+
+* Donner un nom a la tireuse
+
+* Choisir son objet parent
+
+* L'activer/le rendre visible ou non
+
+* Lui attribuer une catégorie
+
+* Choisir la sonde de temperature associée
+
+[IMPORTANT]
+La sonde de temperature doit etre une sonde de temperature Oregon qui à subit une petite modification et doit etre placée à l'interieur de la tireuse. Voir le tuto explicatif sur domo-blog à l'adresse https://www.domo-blog.fr/domotiser-pompe-a-biere-sonde-oregon-domotique/
+
+image:../images/configuration-tireuse-iob.jpg[width=800]
+
+
+Pour choisir la sonde, faite une recherche dans vos objets par les listes :
+
+image:../images/selection-temperature-iob.jpg[width=650]
+
+
+=== Cas d'autres sondes
+
+* D'autres sondes peuvent etre utilisée, le principe reste le même, la sonde doit simplement etre disponible dans Jeedom.
+
